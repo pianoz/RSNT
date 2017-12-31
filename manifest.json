@@ -1,0 +1,13 @@
+{
+	"name":"Real Simple New Tab",
+	"description": "Makes new tab load a very simple yet nice looking page.",
+	"version": "1.0.0",
+	"incognito": "split",
+	"icons": { "16": "icon16.png",
+	           "48": "icon48.png",
+	          "128": "icon128.png" },
+	"chrome_url_overrides": {
+		"newtab": "newTab.html"
+	},
+	"manifest_version": 2
+}

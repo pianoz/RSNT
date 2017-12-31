@@ -1,0 +1,27 @@
+html {
+  background: url(background.JPG) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.linkcol{
+  position: absolute;
+  left: 60%;
+  top: 14%;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-style: 'bold';
+  font-size: 4em;
+}
+.linkbox{
+  height: 9%;
+  width: 50%;
+  opacity: 50%;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color:grey;
+}
